@@ -1,0 +1,11 @@
+complaint_id,stall_id,complaint_date,problem_type,details,status
+CMP010,S008,2025-02-08,Temperature,Pizza was served cold,Resolved
+CMP009,S002,2025-02-07,Hygiene,Utensils were not clean,Pending
+CMP007,S006,2025-02-06,Pricing,Overcharged for dessert,Resolved
+CMP008,S007,2025-02-06,Food Quality,Sushi rice was hard,Resolved
+CMP006,S005,2025-02-05,Food Safety,Meat smelled bad,Resolved
+CMP005,S004,2025-02-04,Service,Staff was rude,Pending
+CMP003,S003,2025-02-03,Portion Size,Chicken portion too small for the price,Pending
+CMP004,S001,2025-02-03,Food Quality,Soup was too salty,Resolved
+CMP002,S002,2025-02-02,Hygiene,Found a hair in my rice,Resolved
+CMP001,S001,2025-02-01,Food Quality,The noodles were undercooked and cold,Resolved
